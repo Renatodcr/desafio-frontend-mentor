@@ -1,6 +1,7 @@
 # Frontend Mentor - Article preview component
 
 Desafio Completado!!!
+Para visualizar acesse o site https://desafiodecodificacaoartigo.netlify.app/
 
 ![artigo1](https://user-images.githubusercontent.com/57547112/91787206-af546700-ebdf-11ea-85b7-a16e7331d3d3.png)
 ![artigo2](https://user-images.githubusercontent.com/57547112/91787220-b7140b80-ebdf-11ea-8de9-2a4371d5a344.png)
